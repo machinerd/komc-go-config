@@ -58,6 +58,11 @@ var config *Config
 func init() {
 	config = &Config{}
 	config.Load()
+	test()
+}
+
+func test() {
+	fmt.Println()
 }
 
 func FindConfigFilePath() string {

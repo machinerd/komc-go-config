@@ -1,6 +1,6 @@
 module github.com/komc-go-config
 
-go 1.25.1
+go 1.23.0
 
 require (
 	github.com/knadh/koanf/parsers/yaml v1.1.0
