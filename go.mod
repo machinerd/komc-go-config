@@ -1,4 +1,4 @@
-module github.com/komc-go-config
+module github.com/machinerd/komc-go-config
 
 go 1.23.0
 
