@@ -1,0 +1,1 @@
+# komc-go-config
